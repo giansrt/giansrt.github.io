@@ -1,7 +1,7 @@
-# Halim Shams - Data Scientist
+# Gian Sirait - Data Scientist
 
 ## About Me
-Hello! I'm Halim Shams, a data scientist with a passion for uncovering insights from data and building predictive models. With a strong background in machine learning, statistics, and cloud computing, I strive to solve complex problems and drive data-driven decision-making.
+Hello! I'm Gian Sirait, a data scientist with a passion for uncovering insights from data and building predictive models. With a strong background in machine learning, statistics, and cloud computing, I strive to solve complex problems and drive data-driven decision-making.
 
 ## Projects
 
