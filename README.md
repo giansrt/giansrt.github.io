@@ -39,5 +39,5 @@ Hello! I'm Gian Sirait, a data scientist with a passion for uncovering insights 
 
 ---
 
-Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
+Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas! 
 
